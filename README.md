@@ -1,2 +1,2 @@
-# Activity_Analyser
+# Activity_Analyser Flask application,  
 Distributed Information Systems Project
